@@ -1,0 +1,2 @@
+# PapajBot
+Prosta wersja papajbota
